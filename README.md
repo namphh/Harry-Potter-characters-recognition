@@ -1,1 +1,2 @@
 # Harry-Potter-characters-recognition
+The problem here is about recognizing characters in Harry Potter. Harry Potter is a famous movie and there are many characters appearing throughout the movie, so for those new to the work, it is difficult to distinguish which character is which. Therefore, the purpose of the project is so that people do not confuse the characters with each other. The algorithm used for character recognition here is YOLO v8n, one of the models developed by ultralytics. The results show that the model can detect characters with quite high accuracy.
